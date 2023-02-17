@@ -2,7 +2,6 @@
 call plug#begin()
 Plug 'sainnhe/sonokai'
 call plug#end()
-
 ""Configuração global:""
 syntax on
 set nu
