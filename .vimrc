@@ -1,4 +1,4 @@
-""Pluguins:""
+"Pluguins:"
 call plug#begin()
 Plug 'sainnhe/sonokai'
 call plug#end()
