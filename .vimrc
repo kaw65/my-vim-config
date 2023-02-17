@@ -1,9 +1,9 @@
-"Pluguins:"
+""Pluguins:""
 call plug#begin()
 Plug 'sainnhe/sonokai'
 call plug#end()
 
-"Configuração global:"
+""Configuração global:""
 syntax on
 set nu
 set hidden
