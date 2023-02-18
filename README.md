@@ -8,4 +8,4 @@
 **•Run `:PlugInstall` and restart editor to install plugins;**  
 **•Commands:**  
 **`Ctrl+x`: Open nerdtree explorer;**  
-**`Ctrl+c`: Open terminal.**
+**`Ctrl+a`: Open terminal.**
