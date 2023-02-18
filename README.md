@@ -5,4 +5,7 @@
 **•Install [vim-plug](https://github.com/junegunn/vim-plug) to manage vim and neovim plugins easily.**
 # Others:
 **•Use font `fonte.ttf` to enable dev icons;**  
-**•Run `:PlugInstall` and restart editor to install plugins.**;
+**•Run `:PlugInstall` and restart editor to install plugins;**  
+**•Commands:**  
+**`Ctrl+x`: Open nerdtree explorer;**  
+**`Ctrl+c`: Open terminal.**
