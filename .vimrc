@@ -21,7 +21,7 @@ filetype indent on
 let g:airline#extensions#tabline#enabled = 1
 let g:airline_powerline_fonts = 1
 nmap <C-x> :NERDTreeToggle<CR>
-nmap <C-c> :term<CR>
+nmap <C-a> :term<CR>
 ""Tema:""
 colorscheme dracula
 let g:airline_theme = 'sonokai'
