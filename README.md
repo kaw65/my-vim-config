@@ -6,6 +6,6 @@
 # Others:
 **•Use font `fonte.ttf` to enable dev icons;**  
 **•Run `:PlugInstall` and restart editor to install plugins;**  
-**•Commands:**  
+**•Custom shortcuts:**  
 **`Ctrl+x`: Open nerdtree explorer;**  
 **`Ctrl+a`: Open terminal.**
